@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.add-button {
+  font-size: 3rem;
+  margin: 0 0.1em;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  color: green;
+  cursor: pointer;
+}
